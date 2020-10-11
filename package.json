@@ -1,0 +1,21 @@
+{
+  "name": "Smoke-Interval",
+  "version": "0.0.1",
+  "description": "A small application using the apple touchbar to help extend the intervals between cigarettes consumed",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/Richar-p/smoke_interval",
+  "keywords": [
+    "Electron",
+    "smoking",
+    "smoke",
+    "interval",
+    "touchbar"
+  ],
+  "author": "Richar-p",
+  "devDependencies": {
+    "electron": "^10.1.3"
+  }
+}
